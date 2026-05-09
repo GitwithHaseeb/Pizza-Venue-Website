@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#7a1d1d"/>
+      <stop offset="100%" stop-color="#d63b2f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" fill="url(#g)"/>
+  <circle cx="940" cy="160" r="130" fill="#ffe2c0" opacity="0.22"/>
+  <text x="80" y="360" font-size="180" fill="#fff">🍕</text>
+  <text x="300" y="340" font-size="86" font-family="Poppins, Arial" font-weight="700" fill="#fff">Pizza Venue Special</text>
+  <text x="300" y="420" font-size="46" font-family="Inter, Arial" fill="#ffe7dd">Hot, cheesy and delicious</text>
+</svg>
